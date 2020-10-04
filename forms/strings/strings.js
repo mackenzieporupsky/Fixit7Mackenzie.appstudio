@@ -20,4 +20,4 @@ console.log(`Lower Case String is: ${lowerCaseString}`)
 
 let userNumber = Number(prompt("Please enter a number:"))
 updatedUserNumber = userNumber + 10
-console.log("The number " + userNumber + " + 10 is " + updatedUserNumber ".")
+console.log(`The number ${userNumber} + 10 is ${updatedUserNumber}.`)
